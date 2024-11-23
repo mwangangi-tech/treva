@@ -1,0 +1,46 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/trevor/.m2/repository/com/formdev/flatlaf/3.0/flatlaf-3.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'23'
+-sourcepath
+'C:/Users/trevor/Desktop/FarmManagementSystem/src/main/java;C:/Users/trevor/Desktop/FarmManagementSystem/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/trevor/Desktop/FarmManagementSystem/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'FarmManagementSystem 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'FarmManagementSystem 1.0-SNAPSHOT API'
+com.mycompany.farmmanagementsystem
+C:\Users\trevor\.m2\repository\com\formdev\flatlaf\3.0\flatlaf-3.0.jar = 1732034098496
+C:\Users\trevor\Desktop\FarmManagementSystem\src\main\java = 1732033578637
+C:\Users\trevor\Desktop\FarmManagementSystem\target\generated-sources\annotations = 1732034101704
+C:\Users\trevor\Desktop\FarmManagementSystem\target\reports\apidocs\allclasses-index.html = 1732034244016
+C:\Users\trevor\Desktop\FarmManagementSystem\target\reports\apidocs\allpackages-index.html = 1732034244050
+C:\Users\trevor\Desktop\FarmManagementSystem\target\reports\apidocs\element-list = 1732034243663
+C:\Users\trevor\Desktop\FarmManagementSystem\target\reports\apidocs\help-doc.html = 1732034244120
+C:\Users\trevor\Desktop\FarmManagementSystem\target\reports\apidocs\index-all.html = 1732034244079
+C:\Users\trevor\Desktop\FarmManagementSystem\target\reports\apidocs\index.html = 1732034244097
+C:\Users\trevor\Desktop\FarmManagementSystem\target\reports\apidocs\member-search-index.js = 1732034244059
+C:\Users\trevor\Desktop\FarmManagementSystem\target\reports\apidocs\module-search-index.js = 1732034244053
+C:\Users\trevor\Desktop\FarmManagementSystem\target\reports\apidocs\overview-tree.html = 1732034243996
+C:\Users\trevor\Desktop\FarmManagementSystem\target\reports\apidocs\package-search-index.js = 1732034244055
+C:\Users\trevor\Desktop\FarmManagementSystem\target\reports\apidocs\search.html = 1732034244093
+C:\Users\trevor\Desktop\FarmManagementSystem\target\reports\apidocs\serialized-form.html = 1732034243825
+C:\Users\trevor\Desktop\FarmManagementSystem\target\reports\apidocs\tag-search-index.js = 1732034244061
+C:\Users\trevor\Desktop\FarmManagementSystem\target\reports\apidocs\type-search-index.js = 1732034244057
